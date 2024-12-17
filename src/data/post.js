@@ -11,7 +11,7 @@ const posts = [
     {
         id: 2,
         title: "Titolo del Post",
-        image: 'https://fastly.picsum.photos/id/380/200/200.jpg?hmac=kRl3E5LKObBjVmZbpz41OB8xNcPHPWwn_KlpTqhcaOk',
+        image: 'https://fastly.picsum.photos/id/1033/200/200.jpg?hmac=BxbwFiZimshaCKpNauTec7E5c0GSY7oInD4dhlyGYbw',
         content:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
         tags: ["js", "css"],
@@ -29,7 +29,7 @@ const posts = [
     {
         id: 4,
         title: "Titolo del Post",
-        image: 'https://fastly.picsum.photos/id/380/200/200.jpg?hmac=kRl3E5LKObBjVmZbpz41OB8xNcPHPWwn_KlpTqhcaOk',
+        image: 'https://fastly.picsum.photos/id/1033/200/200.jpg?hmac=BxbwFiZimshaCKpNauTec7E5c0GSY7oInD4dhlyGYbw',
         content:
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.",
         tags: ["html"],

@@ -48,6 +48,10 @@ main {
   display: flex;
 }
 
+.displayNone {
+  display: none;
+}
+
 span {
   margin: 10px;
   padding: 5px;
