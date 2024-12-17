@@ -8,7 +8,7 @@ function Card({ title, content, imgURL, tag, tag2 }) {
                 <img src={imgURL} alt="" />
                 <p>{content}</p>
                 <span>{tag}</span>
-                <span>{tag2}</span>
+                <span>{tag2 ? tag2 : "css"}</span>
             </div>
         </>
     )
